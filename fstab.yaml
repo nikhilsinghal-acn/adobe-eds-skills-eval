@@ -1,5 +1,8 @@
+# Read by AEM Code Sync from the main branch when the site config is created.
+# Owner, repository, and branch must match GitHub.
+# This author environment is shared. Create a new site; do not reuse another site's content path.
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
+    url: "https://author-p11300-e47725.adobeaemcloud.com/bin/franklin.delivery/nikhilsinghal-acn/adobe-eds-skills-eval/main"
     type: "markup"
     suffix: ".html"
